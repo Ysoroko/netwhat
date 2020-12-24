@@ -5,7 +5,7 @@ If you will be able to read my handwriting, this summary will give you all the i
 
 It contains a compacted version of all the theory you will need and a detailed description of how all of the exercices are done, step by step.
 
-![](Images/img.png)
+![](Images/img.PNG)
 
 As you imagine, in theory.pdf you will find the theory part and in exercices.pdf you will find the exercices part. There are some online calculators that will do all the job for you but in my summary I explain precisely what they do and I recommend you to do the calculations yourself to better understand what you're doing.
 
