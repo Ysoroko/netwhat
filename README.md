@@ -13,10 +13,12 @@ These are the ressources I recommend you to use:
 
 1) A simple binary to decimal online converter: https://sebastienguillon.com/test/javascript/convertisseur.html
 
-Have it open while you're doing the exercices, it will allow you to do it faster.
-
 2) A good but only 95% complete tester you can train with before going for the real test: http://netwhattest.surge.sh/test/
+
 Some questions which are not inside which I encountered:
+
 -Which IP address would you ping to test your local network? (127.0.0.1)
+
 -What is a subnet mask of IP A/B/C/D/E class? (A: 255.0.0.0 / B: 255.255.0.0 / C: 255.255.255.0 / D: 255.255.255.255 / E: Undefined)
+
 -Which IP class doesn't exist? A, B, C, D, E or F - The correct answer is F.
