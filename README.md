@@ -17,8 +17,8 @@ These are the ressources I recommend you to use:
 
 Some questions which are not inside which I encountered:
 
--Which IP address would you ping to test your local network? (127.0.0.1)
+a) Which IP address would you ping to test your local network? (127.0.0.1)
 
--What is a subnet mask of IP A/B/C/D/E class? (A: 255.0.0.0 / B: 255.255.0.0 / C: 255.255.255.0 / D: 255.255.255.255 / E: Undefined)
+b) What is a subnet mask of IP A/B/C/D/E class? (A: 255.0.0.0 / B: 255.255.0.0 / C: 255.255.255.0 / D: 255.255.255.255 / E: Undefined)
 
--Which IP class doesn't exist? A, B, C, D, E or F - The correct answer is F.
+c) Which IP class doesn't exist? A, B, C, D, E or F - The correct answer is F.
