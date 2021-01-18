@@ -1,7 +1,9 @@
 # netwhat
-A complete theory and exercice guide to validate 42cursus netwhat project
 
-If you will be able to read my handwriting, this summary will give you all the information you need to validate the netwhat project.
+A complete theory and exercice guide to validate 42cursus "Netwhat" project.
+Netwhat is an introduction to the world of network, the basics of IP addresses and calculations, OSI Model, TCP/UDP protocols and more.
+
+If you will be able to read my handwriting, this summary will give you all the information you need to validate the Netwhat project.
 
 It contains a compacted version of all the theory you will need and a detailed description of how all of the exercices are done, step by step.
 
