@@ -18,7 +18,7 @@ These are the ressources I recommend you to use:
 
 1) A simple binary to decimal online converter: https://sebastienguillon.com/test/javascript/convertisseur.html
 
-2) A good but only 95% complete tester you can train with before going for the real test: http://netwhattest.surge.sh/test/
+2) A good but only 95% complete tester you can train with before going for the real test: http://netwhattest.surge.sh
 
 -------------------------------------------------------------------------------------------------
 
